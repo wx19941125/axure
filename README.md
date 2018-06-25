@@ -1,37 +1,12 @@
-## Welcome to GitHub Pages
+## Welcome to axure
 
-You can use the [editor on GitHub](https://github.com/wx19941125/axure/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+axure，原型设计工具，技术经理与产品经理快速知道你要做什么；开发与测试看需求不那么费劲；UI、UE知道怎么去设计你的产品；领导知道你的想法，更好的评估与立项；用户可以提前体验产品获取反馈；自己可以分享与同事一同设计产品；
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Axure工具栏
+axure工具栏，编辑属性。
 
-### Markdown
+### Axure网站地图
+Axure网站地图，文档结构。
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/wx19941125/axure/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Axure元件库
+axure元件库，绘制图形。
