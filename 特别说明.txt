@@ -1,0 +1,32 @@
+	
+	
+	https://blog.csdn.net/tichimi3375/article/details/79844514
+	
+	
+	
+	# 仓库初始化（第一次初始化，后续不必初始化）
+	git config --global user.name 'wx19941125'					#设置用户名
+	git config --global user.email '1658264183@qq.com'			#设置用户名邮箱
+	cd test														#进入文件夹
+	git init													#仓库初始化（第一次初始化，后续不必初始化）
+	
+	
+	
+	# 从远程仓库克隆仓库到本地
+	git clone https://github.com/wx19941125/axure.git			#从远程仓库克隆代码 		
+	
+	
+	# 向仓库添加文件
+	mkdir  junit												#创建junit文件夹
+	touch 1.txt                         						#创建1.txt文件到工作目录
+	git add 1.txt     |||    git add .                 	#添加1.txt到暂存区|添加文件夹所有文件到缓存区
+    git commit -m  '描述文字'     								#添加1.txt到本地仓库	
+	git push													#添加1.txt到远程仓库
+	
+	git status													#查看详细情况
+	git config --list                                           #查看仓库初始化信息
+	git pull													#更新代码到本地
+
+	
+	
+	
